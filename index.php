@@ -1,4 +1,4 @@
-<?php echo '<p>Hola Mundo 2</p>'; 
+<?php echo '<p>Seminario</p>'; 
 class RomanNumerals
 {
     const NUMERALS = array(
